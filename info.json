@@ -1,0 +1,26 @@
+{
+    "name": "Rabbi Hasan Sagar",
+    "website": "https://ornate-otter-80668d.netlify.app",
+    "linkedin": "https://www.linkedin.com/in/rabbi-hasan-sagar/",
+    "github": "https://github.com/rhsagar94",
+    "email":"rhsagar145@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
